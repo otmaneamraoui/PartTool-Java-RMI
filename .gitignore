@@ -1,0 +1,6 @@
+-e bin/
+*.class
+.settings/
+.classpath
+.project
+
